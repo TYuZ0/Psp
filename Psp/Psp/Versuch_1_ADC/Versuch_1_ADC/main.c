@@ -11,5 +11,5 @@
 #include "os_input.h"
 
 int main(void) {
-   
+   helloWorld();
 }

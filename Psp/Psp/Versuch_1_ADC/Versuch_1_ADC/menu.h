@@ -13,5 +13,5 @@
 
 //! Shows a user-menu on the display which allows to start subprograms.
 void showMenu(void);
-
+void helloWorld(void);
 #endif
